@@ -1,0 +1,20 @@
+.firstd{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.boldspan{
+    font-weight: bold;
+}
+
+.pd{
+    font-weight: lighter;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* .details{
+    transform: translateX(-300px);
+} */
