@@ -1,0 +1,12 @@
+/* div{
+    border: 1px solid black;
+} */
+
+.colonne{
+    display: flex;
+    margin: 80px;
+}
+
+.flexd{
+    transform: translateX(-200px);
+}
